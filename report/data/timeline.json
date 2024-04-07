@@ -1,0 +1,91 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-J4LMOAT",
+    "children" : [ {
+      "name" : "7500-MainThread",
+      "children" : [ {
+        "name" : "test_login[data2]",
+        "uid" : "a804f3ac09af1cde",
+        "parentUid" : "9ce0525e3d16b54d668017b7ad06da7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1712494664092,
+          "stop" : 1712494665642,
+          "duration" : 1550
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 14713374348, 'passwd': 123456}" ]
+      }, {
+        "name" : "登录用例：test_case_01",
+        "uid" : "66dade368f23c702",
+        "parentUid" : "9ce0525e3d16b54d668017b7ad06da7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1712494618821,
+          "stop" : 1712494619566,
+          "duration" : 745
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[data1]",
+        "uid" : "a16c7ad30166a452",
+        "parentUid" : "9ce0525e3d16b54d668017b7ad06da7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1712494653564,
+          "stop" : 1712494655016,
+          "duration" : 1452
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 13995245568, 'passwd': 123456}" ]
+      }, {
+        "name" : "注册用例：test_case_02",
+        "uid" : "6d543ae335d8b281",
+        "parentUid" : "9ce0525e3d16b54d668017b7ad06da7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1712494628615,
+          "stop" : 1712494628615,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[data0]",
+        "uid" : "f5cea0cafc6ce2e4",
+        "parentUid" : "9ce0525e3d16b54d668017b7ad06da7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1712494643968,
+          "stop" : 1712494645239,
+          "duration" : 1271
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 18894687777, 'passwd': 123456}" ]
+      }, {
+        "name" : "首页用例：test_case_03",
+        "uid" : "b18c1c8717d9941e",
+        "parentUid" : "9ce0525e3d16b54d668017b7ad06da7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1712494636290,
+          "stop" : 1712494636290,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9ce0525e3d16b54d668017b7ad06da7d"
+    } ],
+    "uid" : "1aca00eba1704b82a949b9dfaaee616b"
+  } ]
+}

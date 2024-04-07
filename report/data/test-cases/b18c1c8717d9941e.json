@@ -1,0 +1,126 @@
+{
+  "uid" : "b18c1c8717d9941e",
+  "name" : "首页用例：test_case_03",
+  "fullName" : "testcase.test_home.TestHome#test_case_03",
+  "historyId" : "5a45be6ab6dd77af005b9b23390d2a30",
+  "time" : {
+    "start" : 1712494636290,
+    "stop" : 1712494636290,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "browser",
+    "time" : {
+      "start" : 1712494630791,
+      "stop" : 1712494636289,
+      "duration" : 5498
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "添加成功截图... ...",
+      "time" : {
+        "start" : 1712494636290,
+        "stop" : 1712494636385,
+        "duration" : 95
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "449a7dbd566f05fd",
+        "name" : "成功截图",
+        "source" : "449a7dbd566f05fd.png",
+        "type" : "image/png",
+        "size" : 5509
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "browser::0",
+    "time" : {
+      "start" : 1712494636385,
+      "stop" : 1712494638462,
+      "duration" : 2077
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "登录流程用例：流程00"
+  }, {
+    "name" : "epic",
+    "value" : "读书屋项目"
+  }, {
+    "name" : "feature",
+    "value" : "读书屋 - 登录模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_home"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestHome"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-J4LMOAT"
+  }, {
+    "name" : "thread",
+    "value" : "7500-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_home"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b18c1c8717d9941e.json",
+  "parameterValues" : [ ]
+}

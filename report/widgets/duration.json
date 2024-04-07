@@ -1,0 +1,61 @@
+[ {
+  "uid" : "6d543ae335d8b281",
+  "name" : "注册用例：test_case_02",
+  "time" : {
+    "start" : 1712494628615,
+    "stop" : 1712494628615,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a804f3ac09af1cde",
+  "name" : "test_login[data2]",
+  "time" : {
+    "start" : 1712494664092,
+    "stop" : 1712494665642,
+    "duration" : 1550
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66dade368f23c702",
+  "name" : "登录用例：test_case_01",
+  "time" : {
+    "start" : 1712494618821,
+    "stop" : 1712494619566,
+    "duration" : 745
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5cea0cafc6ce2e4",
+  "name" : "test_login[data0]",
+  "time" : {
+    "start" : 1712494643968,
+    "stop" : 1712494645239,
+    "duration" : 1271
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b18c1c8717d9941e",
+  "name" : "首页用例：test_case_03",
+  "time" : {
+    "start" : 1712494636290,
+    "stop" : 1712494636290,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a16c7ad30166a452",
+  "name" : "test_login[data1]",
+  "time" : {
+    "start" : 1712494653564,
+    "stop" : 1712494655016,
+    "duration" : 1452
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

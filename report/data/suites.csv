@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Apr 07 20:57:08 CST 2024","Sun Apr 07 20:57:08 CST 2024","0","testcase","test_home","TestHome","","","注册用例：test_case_02",""
+"passed","Sun Apr 07 20:57:44 CST 2024","Sun Apr 07 20:57:45 CST 2024","1550","testcase","test_login","","","","test_login[data2]",""
+"passed","Sun Apr 07 20:56:58 CST 2024","Sun Apr 07 20:56:59 CST 2024","745","testcase","test_home","TestHome","","","登录用例：test_case_01",""
+"passed","Sun Apr 07 20:57:23 CST 2024","Sun Apr 07 20:57:25 CST 2024","1271","testcase","test_login","","","","test_login[data0]",""
+"passed","Sun Apr 07 20:57:16 CST 2024","Sun Apr 07 20:57:16 CST 2024","0","testcase","test_home","TestHome","","","首页用例：test_case_03",""
+"passed","Sun Apr 07 20:57:33 CST 2024","Sun Apr 07 20:57:35 CST 2024","1452","testcase","test_login","","","","test_login[data1]",""

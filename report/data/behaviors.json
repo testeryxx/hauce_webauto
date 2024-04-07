@@ -1,0 +1,112 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "读书屋项目",
+    "children" : [ {
+      "name" : "读书屋 - 登录模块",
+      "children" : [ {
+        "name" : "登录流程用例：流程00",
+        "children" : [ {
+          "name" : "登录用例：test_case_01",
+          "uid" : "66dade368f23c702",
+          "parentUid" : "1f4e435707d740ca50e769e0c31274a7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1712494618821,
+            "stop" : 1712494619566,
+            "duration" : 745
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "注册用例：test_case_02",
+          "uid" : "6d543ae335d8b281",
+          "parentUid" : "1f4e435707d740ca50e769e0c31274a7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1712494628615,
+            "stop" : 1712494628615,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "首页用例：test_case_03",
+          "uid" : "b18c1c8717d9941e",
+          "parentUid" : "1f4e435707d740ca50e769e0c31274a7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1712494636290,
+            "stop" : 1712494636290,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1f4e435707d740ca50e769e0c31274a7"
+      }, {
+        "name" : "登录流程用例：流程01",
+        "children" : [ {
+          "name" : "登录用例：test_case_01",
+          "uid" : "66dade368f23c702",
+          "parentUid" : "26643ff0b3e1f062057dae9185f5d675",
+          "status" : "passed",
+          "time" : {
+            "start" : 1712494618821,
+            "stop" : 1712494619566,
+            "duration" : 745
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "26643ff0b3e1f062057dae9185f5d675"
+      } ],
+      "uid" : "4c08a3730c089d93fb37615df895d89f"
+    } ],
+    "uid" : "da57807998991c26b8caf4dd6ec98a5a"
+  }, {
+    "name" : "test_login[data0]",
+    "uid" : "f5cea0cafc6ce2e4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1712494643968,
+      "stop" : 1712494645239,
+      "duration" : 1271
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'username': 18894687777, 'passwd': 123456}" ]
+  }, {
+    "name" : "test_login[data1]",
+    "uid" : "a16c7ad30166a452",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1712494653564,
+      "stop" : 1712494655016,
+      "duration" : 1452
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'username': 13995245568, 'passwd': 123456}" ]
+  }, {
+    "name" : "test_login[data2]",
+    "uid" : "a804f3ac09af1cde",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1712494664092,
+      "stop" : 1712494665642,
+      "duration" : 1550
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'username': 14713374348, 'passwd': 123456}" ]
+  } ]
+}
